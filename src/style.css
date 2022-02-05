@@ -1,0 +1,38 @@
+body{
+    background-color: #FFA234;
+}
+a{
+    text-decoration: none;
+    color: currentColor;
+}
+.nav{
+    text-align: right;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.nav-link{
+    color: white;
+    width: 200px;
+    font-size: x-large;
+}
+.logo{
+    align-items: center;
+    margin-left: 70px;
+}
+.btn{
+    padding-top: 1px ;
+    padding-bottom: 2px ;
+}
+.title{
+    text-align: center;
+}
+.col-md-2{
+    margin-bottom: 20px;
+}
+.card .card-img{
+    width: 200px;
+}
+li{
+    list-style: none;
+}
